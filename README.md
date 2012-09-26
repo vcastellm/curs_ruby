@@ -1,68 +1,84 @@
-1. Introducció
-    * Creat per Yukihiro Matsumoto al 1995
-    * Enfocat en la productivitat del desenvolupador
-    * Popularitat
+#Curs Ruby
+
+##1. Introducció
+
+* Creat per Yukihiro Matsumoto al 1995
+* Enfocat en la productivitat del desenvolupador
+* Popularitat
     
-    Característiques del llenguatge
-      * Orientació a objectes
-      * Dinamic, interpretat
-      * Flexibilitat
-      * Blocks
-      * Mixins
-      * Apariéncia visual
+### Característiques del llenguatge
 
-    * Instal·lació de l’entorn
+* Orientació a objectes
+* Dinamic, interpretat
+* Flexibilitat
+* Blocks
+* Mixins
+* Apariéncia visual
 
-    OSX/Linux
-    rvm / rbenv
-    
-    Windows
-    RubyInstaller http://rubyinstaller.org/
-    
-    Editors
-    SublimeText2
-    vim
-    
-    Terminals
-    Console 2
-    iTerm
+##2. Instal·lació de l’entorn
 
-    tryruby.org
+###OSX/Linux
+rvm / rbenv
 
-    * Eines de l'entorn
-    ruby
-    irb
-    gem
+###Windows
+RubyInstaller http://rubyinstaller.org/
 
-2. Números
-    * Enters
-    * Decimals
-    * Operacions aritmètiques senzilles
-3. Caràcters
-    * Aritmètica amb literals
-    * Symbols
-4. Variables
-    * Tipus
-    * Arrays
-5. Combinacions i operacions
-    * Control de flux: condicionals i bucles
-6. Entrada/sortida
-    * puts
-    * gets
-7. Classes
-8. Testing
+###Editors
+SublimeText2
+vim
 
-9. Projecte Twitlog
+###Terminals
+Console 2
+iTerm
 
-* Bundler
-    Bundle init
+tryruby.org
 
-* Sinatra
+###Eines de l'entorn
+ruby
+irb
+gem
 
-Main file
-Routes
-Views
-Layout
+##2. Conceptes bàsics
+
+Números
+   * Enters
+   * Decimals
+   * Operacions aritmètiques senzilles
+
+Caràcters
+   * Aritmètica amb literals
+   * Symbols
+
+Variables
+   * Tipus
+   * Arrays
+
+Combinacions i operacions
+   * Control de flux: condicionals i bucles
+
+Entrada/sortida
+   * puts
+   * gets
+
+Classes
+   * Variables instancia
+   * Variables classe
+
+Testing
+   * test unit
+   * RSpec
+
+##3. Projecte Twitlog
+
+###Bundler
+Bundle init
+
+###Sinatra
+
+   * Main file
+   * Routes
+   * Views
+   * Layout
 
 Read public timeline
 
