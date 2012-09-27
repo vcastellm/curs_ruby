@@ -80,7 +80,15 @@ Bundle init
    * Views
    * Layout
 
-Read public timeline
+    ####Pasos
+
+        * Read public timeline
+        * Relaoder
+        * Primera vista iterant els twitts
+        * Bootstrap
+        * create_db
+        * insert_twits
+        * search twits
 
 http://www.ruby-doc.org/stdlib-1.9.3/libdoc/open-uri/rdoc/OpenURI/OpenRead.html
 https://dev.twitter.com/docs/api/1/get/statuses/user_timeline
