@@ -49,20 +49,24 @@ Caràcters
    * Aritmètica amb literals
    * Symbols
 
-Variables
-   * Tipus
+Tipus estructurats
    * Arrays
-
-Combinacions i operacions
-   * Control de flux: condicionals i bucles
+   * Hash
 
 Entrada/sortida
    * puts
    * gets
 
+Control de flux
+   * Condicionals
+   * for while until
+   * Blocks
+
 Classes
    * Variables instancia
    * Variables classe
+   * Métodes instancia
+   * Métodes classe
 
 Testing
    * test unit
