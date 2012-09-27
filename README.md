@@ -38,7 +38,7 @@ ruby
 irb
 gem
 
-##2. Conceptes bàsics
+##3. Conceptes bàsics
 
 Números
    * Enters
@@ -68,7 +68,7 @@ Testing
    * test unit
    * RSpec
 
-##3. Projecte Twitlog
+##4. Projecte Twitlog
 
 ###Bundler
 Bundle init
