@@ -98,6 +98,7 @@ http://www.ruby-doc.org/stdlib-1.9.3/libdoc/open-uri/rdoc/OpenURI/OpenRead.html
 https://dev.twitter.com/docs/api/1/get/statuses/user_timeline
 http://sqlite-ruby.rubyforge.org/sqlite3/faq.html
 http://www.sinatrarb.com/configuration.html
+http://rubydoc.info/gems/sqlite3/1.3.6/frames
 
 
 Referències
