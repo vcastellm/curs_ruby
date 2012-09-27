@@ -87,12 +87,17 @@ Bundle init
         * Primera vista iterant els twitts
         * Bootstrap
         * create_db
+        * settings a sinatra app
         * insert_twits
         * search twits
+          * select amb params
+          * Excepcions
+          * Afegir id a la taula de twits
 
 http://www.ruby-doc.org/stdlib-1.9.3/libdoc/open-uri/rdoc/OpenURI/OpenRead.html
 https://dev.twitter.com/docs/api/1/get/statuses/user_timeline
-
+http://sqlite-ruby.rubyforge.org/sqlite3/faq.html
+http://www.sinatrarb.com/configuration.html
 
 
 Referències
